@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DZ-IGNAT/static/css/main.58fa02d5.chunk.css",
+    "main.js": "/DZ-IGNAT/static/js/main.b28d052c.chunk.js",
+    "main.js.map": "/DZ-IGNAT/static/js/main.b28d052c.chunk.js.map",
+    "runtime-main.js": "/DZ-IGNAT/static/js/runtime-main.4a21612c.js",
+    "runtime-main.js.map": "/DZ-IGNAT/static/js/runtime-main.4a21612c.js.map",
+    "static/js/2.d47564e7.chunk.js": "/DZ-IGNAT/static/js/2.d47564e7.chunk.js",
+    "static/js/2.d47564e7.chunk.js.map": "/DZ-IGNAT/static/js/2.d47564e7.chunk.js.map",
+    "index.html": "/DZ-IGNAT/index.html",
+    "precache-manifest.7b4780b5fa752d479f431adbb18e05d4.js": "/DZ-IGNAT/precache-manifest.7b4780b5fa752d479f431adbb18e05d4.js",
+    "service-worker.js": "/DZ-IGNAT/service-worker.js",
+    "static/css/main.58fa02d5.chunk.css.map": "/DZ-IGNAT/static/css/main.58fa02d5.chunk.css.map",
+    "static/js/2.d47564e7.chunk.js.LICENSE.txt": "/DZ-IGNAT/static/js/2.d47564e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a21612c.js",
+    "static/js/2.d47564e7.chunk.js",
+    "static/css/main.58fa02d5.chunk.css",
+    "static/js/main.b28d052c.chunk.js"
+  ]
+}
